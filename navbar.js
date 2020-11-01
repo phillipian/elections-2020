@@ -1,4 +1,4 @@
-const sections = ["general", "politics", "campus", "school", "discipline", "sex", "drugs", "wellness", "covid", "community"];
+const sections = ["election"];
 const sectionElems = [];
 
 for (section of sections){
