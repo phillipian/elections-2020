@@ -4,8 +4,8 @@ sota.sotaConfig.sections = [
 ]
 
 // optional styling configuration
-sota.sotaConfig.numberFont = "Crimson Text"; // optional -- defaults to Montserrat
-sota.sotaConfig.labelFont = "Montserrat"; // optional -- defaults to Lora
+sota.sotaConfig.numberFont = "Montserrat"; // optional -- defaults to Montserrat
+sota.sotaConfig.labelFont = "Crimson Text"; // optional -- defaults to Lora
 sota.setColors(sota.sotaConfig);
 sota.setStyles(sota.sotaConfig); // for custom sotaConfig; for default options, don't pass any params (other than font path)
 sota.createSections(sota.sotaConfig);
@@ -26,29 +26,36 @@ window.onload = () => {
         title: "hello",
         subtitle: "hello again"
     })
-    // sota.stackedBarChart({
-    //     selector: "#module-general-registered",
-    //     dataFile: "assets/data/statusXregistered",
-    //     labelStyle: "onBar",
-    //     groupLabelStyle: "onBar",
-    //     showLegend: true
-    // })
 
-    // sota.stackedBarChart({
-    //     selector: "#module-general-vote",
-    //     dataFile: "assets/data/voteXstatus",
-    //     labelStyle: "onBar",
-    //     groupLabelStyle: "onBar",
-    //     showLegend: true
-    // })
+    sota.stackedBarChart({
+        section: "Election",
+        dataFile: "assets/data/statusXregistered",
+        labelStyle: "onBar",
+        groupLabelStyle: "onBar",
+        showLegend: true,
+        title: "If you are eligible, have you registered to vote?",
+        subtitle:"test"
+    })
 
-    // sota.stackedBarChart({
-    //     selector: "#module-general-votebyyear",
-    //     dataFile: "assets/data/voteXyear",
-    //     labelStyle: "onBar",
-    //     groupLabelStyle: "onBar",
-    //     showLegend: true
-    // })
+    sota.stackedBarChart({
+        section: "Election",
+        dataFile: "assets/data/voteXstatus",
+        labelStyle: "onBar",
+        groupLabelStyle: "onBar",
+        showLegend: true,
+        title: "Who do you support in the upcoming election?",
+        subtitle: "test"
+    })
+
+    sota.stackedBarChart({
+        section: "Election",
+        dataFile: "assets/data/voteXyear",
+        labelStyle: "onBar",
+        groupLabelStyle: "onBar",
+        showLegend: true,
+        title: "Support, by year",
+        subtitle:"test"
+    })
 //new charts end
 
 // masonry
@@ -78,4 +85,5 @@ window.onload = () => {
     //         }
     //     })
     // })
+    sota.sotaMasonry()
 }
