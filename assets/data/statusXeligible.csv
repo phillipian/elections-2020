@@ -1,3 +1,3 @@
-group,Student,Faculty or Staff Member
-eligible,75,221
-not eligible,694,3
+group,Eligible,Not Eligible
+Student,75,694
+Faculty or Staff Member,221,3

@@ -1,3 +1,3 @@
-group,Student,Faculty or Staff Member
-registered to vote,62,220
-not registered to vote,13,1
+group,Registered to Vote, Not Registered to Vote
+Student,62,13
+Faculty or Staff Member,220,1
