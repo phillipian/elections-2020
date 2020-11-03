@@ -1,14 +1,16 @@
 
 sota.sotaConfig.sections = [
-    // {"slug": "Intro", "name": "", "colors": sota.colorInterpolate("#336633"), "content":
+    // {"slug": "Intro", "name": "intro", "colors": sota.colorInterpolate("#336633"), "content":
     // `
-    // <img src="/assets/" > 
+    // <div class="intro">
+
+    // <img src="/assets/election-banner.jpg"> 
+    // </div>
     // `
+    // }
     {"slug": "Election", "name": "Poll Results", "colors": sota.colorInterpolate("#663366")},
     {"slug": "articles", "name": "Articles", "colors": sota.colorInterpolate("#000000"), "content":
     `
-
-
     <div class="articles-grid">
     <a class="article-item" href="https://phillipian.net/2020/10/22/andover-prepares-to-support-students-during-presidential-election/">
         <div class="article-category">
@@ -213,7 +215,7 @@ sota.createSections(sota.sotaConfig);
 
 // optional, render navbar based on sotaConfig.sections
 // make sure you call createSections first!
-sota.sotaNavbar(sota.sotaConfig, "sota.js Demo", "szlogo.png", false, "https://www.samsonzhang.com/");
+sota.sotaNavbar(sota.sotaConfig, "Mock Election 2020", "assets/img/p-square.png", false, "https://www.phillipian.net/");
 // GENERAL
 window.onload = () => {
 
