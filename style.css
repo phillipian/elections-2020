@@ -1,24 +1,8 @@
 
-
-.intro img{
-width: 100%;
-}
-
-.intro{
-
-    padding: 30px;
-    padding-bottom: 40px;
-    box-sizing: border-box;
-}
 body{
     margin: 0;
 }
 
-
-.intro p{
-    padding-left: 10%;
-    padding-right: 10%;
-}
 .articles-grid{
     display: grid;
     column-gap: 50px;
@@ -82,14 +66,14 @@ body{
   flex-flow: column nowrap;
 }
 
-.intro-blurb p{
+.intro-container p{
     font-size: 20px;
     margin: 12px 0;
     line-height: 1.5;
     font-family: "Mercury Text G1";
 }
 
-.intro-blurb p:first-of-type{
+.intro-container p:first-of-type{
     margin-top: auto;
 }
 
@@ -113,148 +97,112 @@ body{
     margin-bottom: 24px;
 }
 
-
-.home-container{
-    padding: 128px 24px 0px;
-    box-sizing: border-box;
-    max-width: 1500px;
-    display: grid;
-    margin: 0 auto;
-    grid-template-columns: minmax(0, 1fr);
+.article-container{
+  padding: 0 24px;
+  margin: 0 auto 64px;
+  max-width: 1200px;
+  display: flex;
+  flex-flow: column nowrap;
 }
 
-.home-hero{
-    grid-column-gap: 48px;
+.article-title{
+  font-size: 48px;
+  font-weight: 700;
+  margin: 12px 0;
+  line-height: 1.2;
+  font-family: "Montserrat";
 }
 
-/* .home-hero img{
-    width: 100%;
-} */
-
-.home-sections, .home-mid{
-    padding: 16px 24px;
-    grid-column-gap: 8px;
+.article-credit{
+  font-size: 20px;
+  font-weight: 700;
+  margin: 12px 0;
+  line-height: 1.5;
+  font-family: "Montserrat";
 }
 
-.home-mid h3{
-    font-family: "Mercury Text G1";
-    font-size: 24px;
-    margin-bottom: 0;
+.article-body{
+  padding: 0 10% 0;
+  font-size: 20px;
+  margin: 12px 0;
+  line-height: 1.5;
+  font-family: "Mercury Text G1";
 }
 
-@media (min-width: 600px){
-    .home-sections{
-        grid-template-columns: repeat(2, minmax(0,1fr));
+.commentary-container{
+  padding: 24px;
+  padding-left: 43px;
+  background-color: #f4f4f4;
+  margin: 0 auto 24px;
+  max-width: 1200px;
+  box-sizing: border-box;
+}
+
+.commentary-container p{
+  font-size: 20px;
+  margin: 12px 0;
+  line-height: 1.5;
+  font-family: "Mercury Text G1";
+}
+
+.commentary-container article{
+  width: 45%;
+  height: 375px;
+  padding: 0 20px;
+  margin: auto;
+  display: inline-table;
+  border-style: solid;
+}
+
+@media (max-width: 900px)
+{
+    .commentary-container {
+      padding: 24px;
+    }
+    .commentary-container article{
+      width: 88%;
+      margin-bottom: 10px;
     }
 }
 
-@media (min-width: 900px){
-    .home-sections{
-        grid-template-columns: repeat(3, minmax(0,1fr));
-    }
+.commentary-container article p{
+  padding: 10px 0;
 }
 
-@media (min-width: 1200px){
-    .home-sections{
-        grid-template-columns: repeat(4, minmax(0,1fr));
-    }
+.commentary-title{
+  font-size: 25px;
+  font-weight: 700;
+  margin: 12px 0;
+  line-height: 1.2;
+  font-family: "Montserrat";
 }
 
-@media (min-width: 1500px){
-    .home-sections{
-        grid-template-columns: repeat(5, minmax(0,1fr));
-    }
+.read{
+  font-size: 20px;
+  margin: 12px 0;
+  line-height: 1.5;
+  font-family: "Montserrat";
+  color: unset;
+  text-decoration: none;
 }
 
-.home-sections a{
-    text-decoration: none;
-    text-align: center;
-    color: #fff;
-    font-family: "Montserrat";
-    font-weight: 700;
-    text-transform: uppercase;
+.commentary-img{
+  padding: 24px;
+  margin: 0 auto 64px;
+  max-width: 600px;
 }
 
-.home-section{
-    background-color: #222;
-    padding: 16px 0;
-    margin-bottom: 8px;
+.commentary-img img{
+    max-width: 100%;
+    height: auto;
 }
 
-.hero-logo{
-    width: 72px;
-    margin-bottom: 48px;
-}
-
-.hero-blurb{
-    display: flex;
-    flex-flow: column nowrap;
-}
-
-/* .hero-image-inner{
+.image-credit{
     position: relative;
-}
-
-.hero-image-credit{
-    position: absolute;
     font-family: "Montserrat";
     font-weight: 400;
-    color: #fff;
-    bottom: 24px;
-    right: 24px;
-}
-
-.hero-image-credit a{
-    color: unset;
-} */
-
-.hero-blurb p{
-    max-width: 600px;
-    font-size: 20px;
-    margin: 12px 0;
-    line-height: 1.5;
-    font-family: "Mercury Text G1";
-}
-
-.hero-blurb p:first-of-type{
-    margin-top: auto;
-}
-
-.hero-sota{
-    font-family: "Montserrat";
-    font-weight: 700;
-    font-size: 48px;
-    text-transform: uppercase;
-    line-height: 0.9;
-    margin-bottom: 32px;
-}
-
-.hero-sota-year{
-    line-height: 0.9;
-    font-size: 120px;
-    opacity: 0.2;
-}
-
-/* @media (max-width: 900px){
-    .hero-image{
-        grid-row: 1;
-        margin-top: -72px;
-        width: calc(100% + 48px);
-        margin-left: -24px;
-        margin-bottom: 32px;
-    }
-} */
-
-@media (min-width: 900px){
-    .hero-sota{
-        font-size: 64px;
-    }
-
-    .hero-sota-year{
-        font-size: 144px;
-    }
-
-    .home-hero{
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
+    color: #000;
+    bottom: -24px;
+    right: -24px;
+    text-align: right;
 }
