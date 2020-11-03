@@ -105,6 +105,10 @@ body{
     opacity: 0.2;
 }
 
+.intro-logo img{
+    width: 72px;
+    margin-bottom: 24px;
+}
 
 
 .home-container{

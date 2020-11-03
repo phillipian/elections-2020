@@ -197,7 +197,7 @@ sota.createSections(sota.sotaConfig);
 
 // optional, render navbar based on sotaConfig.sections
 // make sure you call createSections first!
-sota.sotaNavbar(sota.sotaConfig, "Mock Election 2020", "assets/img/p-square.png", false, "https://www.phillipian.net/");
+sota.sotaNavbar(sota.sotaConfig, "Mock Election 2020", "assets/graphics/nameplate.png", false, "https://www.phillipian.net/");
 // GENERAL
 window.onload = () => {
 
