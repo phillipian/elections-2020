@@ -153,6 +153,11 @@ body{
   font-family: "Montserrat";
 }
 
+.article-credit a{
+  color: #0082ca;
+  text-decoration: none;
+}
+
 .article-body{
   padding: 0 10% 0;
   font-size: 20px;
@@ -184,6 +189,7 @@ body{
   margin: auto;
   display: inline-table;
   border-style: solid;
+  border-color: #5e5e5e;
 }
 
 @media (max-width: 900px)
