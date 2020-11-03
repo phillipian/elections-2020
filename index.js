@@ -11,41 +11,37 @@ sota.sotaConfig.sections = [
     {"slug": "articles", "name": "", "colors": sota.colorInterpolate("#000000"), "content":
     `
     <div class="article-container">
-      <h3 class="article-title">Andover Community Calls for Mutual Respect Ahead of Presidential Election</h3>
-      <h4 class="article-credit">By Erin Kim & Ananya Madduri</h4>
-      <p class="article-body">With less than two weeks until the 2020 Presidential Election, the Andover community is preparing for the November 3 contest between Republican nominee and current President Donald Trump and Democratic nominee and former
-        Vice President Joe Biden. In the days leading up to the election, community members are calling for unity and mutual respect across party lines.<br><br>
+      <h3 class="article-title">Andover Seniors Vote in 2020 U.S. Presidential Election</h3>
+      <h4 class="article-credit">By Karen Wang</h4>
+      <p class="article-body">
+      Voting in the 2020 U.S. Presidential election is looking different than most years: some voters line the streets, wear masks, and practice social distancing, while others fill out mail-in ballots in record numbers. For certain eligible Andover students, many are doing the same.<br><br>
 
-        Student-run political organizations such as PA Democrats and the PA Republican Society (PARS) have hosted speaker events and election-themed club meetings. The two groups also plan on hosting joint meetings to foster civil discourse.<br><br>
+      According to a recent survey sent by The Phillipian to all students and faculty, which 65.1 percent of the total student body responded to, 9.8 percent are eligible to vote, 82.7 percent of which are registered to vote. Some students have already voted in their hometowns while others plan to vote remotely or at the local Andover voting station. Some students have seen this election as particularly contentious among the student body.<br><br>
 
-        On Wednesday, October 28, PARS will host Ramesh Ponnuru, a conservative “Bloomberg” columnist and “National Review” magazine senior editor, to speak on the future of American conservatism.<br><br>
+      “Andover’s political climate is predominantly liberal, but this election has raised conservative voices in the student body as well. I’ve seen political and social views be pretty polarizing and divisive in terms of friendships and dorm cultures, in classroom settings, and on sports teams. My pod actually hung up a banner that criticized Trump and we were asked to take it down so as not to offend anyone,” wrote Emma Kaplon ’21 in an email to The Phillipian.<br><br>
 
-        PA Democrats hosted discussion-based meetings, including a conversation on what a conservative Supreme Court could mean for women’s reproductive rights, as well as a Biden-Harris phonebank organized by Mary Muromcew ’22.<br><br>
+      According to Kaplon, voting is the most fundamental civic duty. She believes that each person is responsible for deciding who they think will best represent, protect, and advocate for their own rights and interests in addition to those of their fellow citizens.<br><br>
 
-        Many members of the Andover community have used these spaces to voice their opinions on the upcoming election. Corrie Martin, Instructor in English, and Aidan Pretti ’21 both called for the Andover community to refrain from hateful
-        rhetoric.<br><br>
+      “The voting process was so exciting. I pre-registered really early, so I got my absentee ballot just a week or so after my birthday in October. I make a concerted effort to stay informed with regard to politics, current events, and the social climate, and I knew long before I actually checked the box that I would be voting for Biden and Harris. I spent a lot of time in the days between getting my ballot and mailing it in researching the California propositions, so that I would be making well-informed decisions on the state level as well,” wrote Kaplon.<br><br>
 
-        “If I could give something like advice to young people as the election approaches, I want to say this: Reject hate. Reject bigotry. Reject sexism. Reject racism. Choose justice. Choose love. Choose your humanity,” wrote Martin in an email to
-        <i>The Phillipian</i>.<br><br>
+      She continued, “In the United States, we have a rare opportunity to elect the people who represent our nation; to forgo that opportunity is to choose not to contribute or support the wider community. Voting is one of the few ways that people are able to make a concrete difference in the political climate and to have their voices heard as they fight against injustices. Every vote matters.”<br><br>
 
-        “No matter who wins, I hope that election day (or rather, the days and weeks after it) can be a jumping-off point for everyone to tone down divisive rhetoric around campus and start to have more productive conversations about ideas, rather
-        than candidates,” wrote Pretti in an email to <i>The Phillipian</i>.<br><br>
+      Lilly Yager ’21 filled out her mail-in registration sheet after she turned 18 over the summer. When she mailed it in, she did not get a notification and was told she was not eligible to vote in the election. She then found that her address was incorrect, but she sorted out the situation and was able to vote. According to Yager, she learned that she cannot leave mail-in voting to the mail system. Yager also stressed her belief in the importance of down ballot and local elections. <br><br>
 
-        Marcelle Doheny, Instructor in History and Social Science, encouraged others to vote.<br><br>
+      “Voting is important because it determines our future, it determines where we head as a country, it determines why we work every day. The person at the top is important, but I really think it’s local elections that matter the most. Local elections really will determine what happens close to home and they’re the ones that advocate for you in your area, district, or state. I really value local elections, but I do think it’s important to have a strong figure at the presidential level as well,” said Yager.<br><br>
 
-        “The disturbing and dangerous rhetoric surrounding this year’s election, and the amount of disinformation, makes it very challenging for voters. Without saying which way I lean, my message is VOTE, VOTE, VOTE,” wrote Doheny in an email to
-        <i>The Phillipian</i>.<br><br>
+      Kate Pfister ’21 had a difficult experience choosing where to vote due to her dual-residency in Connecticut and Maine. Since Maine is historically more Republican than Connecticut, Pfister believes her vote for Biden/Harris will have more of an impact. In the end, Pfister chose Maine, and expressed her opinion on why she voted for Biden/Harris.<br><br>
 
-        Emma Jing ’22 noted that this year’s election will be unconventional with the Andover community scattered around the world. However, she is hopeful that Andover will be a space for open-minded and cohesive discussions across the
-        community.<br><br>
+      “I think a third-party vote is a waste because the goal of this election NEEDS to be getting Trump out of office. Settling for Biden is the best option. Every vote is important, especially in swing states. It can be a pain, like my parents and I had to do a lot of coordinating to figure out registration, but everyone needs to have confidence that their vote matters, now more than ever before,” wrote Pfister in an email to The Phillipian.<br><br>
 
-        “I know how hard it is to connect with our peers right now, especially with half of the student body still remote, so it may not be the most realistic hope. However, I think that we still shouldn’t shy away from the topic of politics and,
-        although animosity runs rampant in our current political climate, maybe [Andover] can be a space where, when we encourage political engagement, we don’t require partisanship,” said Jing.<br><br>
+      Aidan Pretti ’21 has a different view from Pfister on third-party votes. He believes that voting third-party has important symbolic value in challenging the two dominant American political parties. While Pretti is only 17 years old and thus ineligible to vote in 2020, he supports Jo Jorgensen from the Libertarian party since his view aligns most closely to the Libertarian ideology surrounding economy and gun rights. <br><br>
 
-        Denise Taveras ’21 has noticed both an increasing number of political conversations and an enthusiasm among Seniors who are eligible to vote.<br><br>
+      “[The Democratic and Republican Parties] are so powerful that people just assume that the two-party power dynamic can never actually be disrupted. I think it’s important to choose the lesser of two evils, but it’s also important to note that the two-party system could be disrupted in one election cycle. The two parties have so much power and influence, they’ve convinced people to be scared of the other party option to vote for the third party,” said Pretti.<br><br>
 
-        “It’s really hard to have a space where people with very different ideas about the election can come together in informal settings, but I know that there is definitely a lot of conversation about what people want versus what people need from
-        our government. Especially with these last couple of years and Covid, a lot of people have very strong feelings about the upcoming election, and it really shows in some of the discussions,” said Taveras.</p>
+      According to Carolina Weatherall ’21, who voted for Biden/Harris, the 2020 election represents an existential threat to her generation’s climate, mental and physical health, marriage equality, and simple physical safety. She found her voting experience to be extremely fun and very simple. <br> <br>
+      “I am living at home this term, so I was able to vote in person at my local town hall. It was surreal to walk into that space and fill out a ballot, and what a year to do it!” wrote Weatherall in an email to <i>The Phillipian</i>. <br><br>
+      She continued, “Generally, I find many students are either quite vocal (on social media spaces in particular) or not vocal at all. Rarely is there an in-between. Yet there is a certain tendency to make a statement (online or in person) that pertains to the majority opinion but takes little action to support or further that statement. As for interactions between students and faculty, I find that this community is comfortable discussing politics in an open and healthy way. In other spaces (schools I mean) faculty are not permitted to express a [political] opinion – I find that very counterintuitive!”
+      </p>
     </div>
 
     <div class="commentary-container">
@@ -210,7 +206,6 @@ sota.sotaConfig.sections = [
         In a world where words carry weight and consequences, how do we address conspiracy theories and their presence in politics? Charlotte Rediker ’22 examines the QAnon conspiracies and its influence over a gunman in a pizza parlor to the president. Rediker highlights the dangers of believing and fueling conspiracy theories, especially how platforms can operate to better enforce the spread of accurate information. 
         </p>
     </a>
-    
     <a class="article-item" href="https://phillipian.net/2020/10/23/battling-it-out-for-democracy/">
         <div class="article-category">
             <span>
@@ -230,7 +225,7 @@ sota.sotaConfig.sections = [
         On October 15, former Vice President Joe Biden and President Donald Trump battled it out in town halls on different television networks. These dueling events and what they represent call into question whether our democracy will stay intact for the next four years and beyond, regardless of the election results. 
         </p>
     </a>
-
+    
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
         <div class="article-category">
             <span>
