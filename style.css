@@ -5,8 +5,8 @@ body{
 
 .articles-grid{
     display: grid;
-    column-gap: 50px;
-    row-gap: 50px;
+    column-gap: 5%;
+    row-gap: 75px;
 }
 
 .yt-container{
@@ -31,7 +31,7 @@ body{
     color: unset;
     text-decoration: none;
     background-color:	#DCDCDC;
-    border-radius: 10px, 10px, 10px, 10px;
+    border-radius: 12px;
     padding-left: 24px;
     padding-right: 24px;
     padding-top: 10px;
