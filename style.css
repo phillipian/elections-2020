@@ -31,7 +31,7 @@ body{
     color: unset;
     text-decoration: none;
     background-color:	#DCDCDC;
-    border-radius: 12px;
+    border-radius: 32px;
     padding-left: 24px;
     padding-right: 24px;
     padding-top: 10px;
@@ -40,6 +40,7 @@ body{
 
 .article-category{
     color: #0082ca;
+    margin-bottom: 0em;
 }
 
 .blurb{
@@ -48,15 +49,22 @@ body{
 }
 
 .author{
+    margin-top: 0.2em;
     font-family: "Montserrat";
+    font-size: 12;
 }
 
 .date{
     font-family: "Montserrat";
- 
+    margin-bottom: 0em;
+    font-size:  10pt;
+    color: #303030;
 }
 
+.article-item h3{
 
+    margin-top: 0.2em;
+}
 @media (min-width: 600px)
 {
     .articles-grid{

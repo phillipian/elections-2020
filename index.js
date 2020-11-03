@@ -146,85 +146,6 @@ sota.sotaConfig.sections = [
         The first presidential debate occurred on Tuesday between the Republican nominee and current President Donald Trump and the Democratic nominee and former Vice President Joe Biden. Click to read student reactions.
         </p>
     </a>
-    <a class="article-item" href="https://phillipian.net/2020/10/22/qanon-conspiracies-and-my-local-pizza-shop/">
-        <div class="article-category">
-            <span>
-                Commentary
-            </span>
-        </div>
-        <h3>
-            QAnon Conspiracies and My Local Pizza Shop
-        </h3>
-        
-        <p class="date">
-            October 22, 2020
-        </p>
-        <p class ="author">
-            Charlotte Rediker
-        </p>
-        <p class="blurb">
-        In a world where words carry weight and consequences, how do we address conspiracy theories and their presence in politics? Charlotte Rediker ’22 examines the QAnon conspiracies and its influence over a gunman in a pizza parlor to the president. Rediker highlights the dangers of believing and fueling conspiracy theories, especially how platforms can operate to better enforce the spread of accurate information. 
-        </p>
-    </a>
-    <a class="article-item" href="https://phillipian.net/2020/10/23/battling-it-out-for-democracy/">
-        <div class="article-category">
-            <span>
-                Commentary
-            </span>
-        </div>
-        <h3>
-            Battling it out for Democracy
-        </h3>
-
-        <p class="date">
-            October 23, 2020
-        </p>
-        <p class ="author">
-            Bianca Morales
-        </p>
-    </a>
-    <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
-        <div class="article-category">
-            <span>
-                Commentary
-            </span>
-        </div>
-        <h3>
-            Donald Trump's Coronavirus Diagnosis
-        </h3>
-        
-        <p class="date">
-            October 8, 2020
-        </p>
-        <p class ="author">
-            Bianca Morales
-        </p>
-        <p class="blurb">
-        Trump's positive COVID-19 test has dominated the news cycle since the moment he announced it. Yet despite the public frenzy around the story, the Trump Administration has released little information about the President's condition. At the end of a week of chaos and confusion, Bianca Morales '24 questions the ethical responsibilities of a President to communicate with the people he leads.
-        </p>
-
-    </a>
-
-    <a class="article-item" href="https://phillipian.net/2020/10/30/the-supreme-courts-role-in-upholding-voter-suppression/">
-        <div class="article-category">
-            <span>
-                Commentary
-            </span>
-        </div>
-        <h3>
-        The Supreme Court’s Role in Upholding Voter Suppression
-        </h3>
-        
-        <p class="date">
-            October 30, 2020
-        </p>
-        <p class ="author">
-            Ashley Agyeman
-        </p>
-        <p class="blurb">
-        Ashley Ageyman ’24 highlights how it has gotten increasingly difficult for people with lower socio-economic background, elderly people, and people of color to register to vote and lists the ways in which laws are providing more and more obstacles to certain groups of people. We as people have the responsibility to ensure that accessibility to vote is equal for everyone. With the upcoming election in mind, Ageyman urges readers to understand that a complete democracy cannot coexist with voter suppression. 
-        </p>
-    </a>
 
     <a class= "article-item" href ="https://phillipian.net/2020/10/30/dont-hang-up/">
         <div class="article-category">
@@ -247,7 +168,95 @@ sota.sotaConfig.sections = [
         </p>
     </a>
 
+
+    <a class="article-item" href="https://phillipian.net/2020/10/30/the-supreme-courts-role-in-upholding-voter-suppression/">
+    <div class="article-category">
+        <span>
+            Commentary
+        </span>
+    </div>
+    <h3>
+    The Supreme Court’s Role in Upholding Voter Suppression
+    </h3>
+    
+    <p class="date">
+        October 30, 2020
+    </p>
+    <p class ="author">
+        Ashley Agyeman
+    </p>
+    <p class="blurb">
+    Ashley Ageyman ’24 highlights how it has gotten increasingly difficult for people with lower socio-economic background, elderly people, and people of color to register to vote and lists the ways in which laws are providing more and more obstacles to certain groups of people. We as people have the responsibility to ensure that accessibility to vote is equal for everyone. With the upcoming election in mind, Ageyman urges readers to understand that a complete democracy cannot coexist with voter suppression. 
+    </p>
+    </a>
+
+    <a class="article-item" href="https://phillipian.net/2020/10/22/qanon-conspiracies-and-my-local-pizza-shop/">
+        <div class="article-category">
+            <span>
+                Commentary
+            </span>
+        </div>
+        <h3>
+            QAnon Conspiracies and My Local Pizza Shop
+        </h3>
+        
+        <p class="date">
+            October 22, 2020
+        </p>
+        <p class ="author">
+            Charlotte Rediker
+        </p>
+        <p class="blurb">
+        In a world where words carry weight and consequences, how do we address conspiracy theories and their presence in politics? Charlotte Rediker ’22 examines the QAnon conspiracies and its influence over a gunman in a pizza parlor to the president. Rediker highlights the dangers of believing and fueling conspiracy theories, especially how platforms can operate to better enforce the spread of accurate information. 
+        </p>
+    </a>
+    
+    <a class="article-item" href="https://phillipian.net/2020/10/23/battling-it-out-for-democracy/">
+        <div class="article-category">
+            <span>
+                Commentary
+            </span>
+        </div>
+        <h3>
+            Battling it out for Democracy
+        </h3>
+        <p class="date">
+            October 23, 2020
+        </p>
+        <p class ="author">
+            Bianca Morales
+        </p>
+        <p class="blurb">
+        On October 15, former Vice President Joe Biden and President Donald Trump battled it out in town halls on different television networks. These dueling events and what they represent call into question whether our democracy will stay intact for the next four years and beyond, regardless of the election results. 
+        </p>
+    </a>
+
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
+        <div class="article-category">
+            <span>
+                Commentary
+            </span>
+        </div>
+        <h3>
+            Donald Trump's Coronavirus Diagnosis
+        </h3>
+        
+        <p class="date">
+            October 8, 2020
+        </p>
+        <p class ="author">
+            Bianca Morales
+        </p>
+        <p class="blurb">
+        Trump's positive COVID-19 test has dominated the news cycle since the moment he announced it. Yet despite the public frenzy around the story, the Trump Administration has released little information about the President's condition. At the end of a week of chaos and confusion, Bianca Morales '24 questions the ethical responsibilities of a President to communicate with the people he leads.
+        </p>
+
+    </a>
+
+
+
+
+    <a class="article-item" href="https://phillipian.net/2020/10/11/deconstructing-disinformation/">
         <div class="article-category">
             <span>
                 Editorial
@@ -261,6 +270,9 @@ sota.sotaConfig.sections = [
         </p>
         <p class ="author">
             The Phillipian, vol. CXLIII
+        </p>
+        <p class="blurb">
+        While “misinformation” is an inaccurate interpretation of information that may result from a lack of knowledge, “disinformation” is false information spread with the intent to confuse or deceive, often contradicting information that has already been proven. Ultimately, both have dangerous consequences.
         </p>
     </a>
     <a class="article-item" href="https://phillipian.net/2020/09/25/honoring-justice-ruth-bader-ginsburg-1933-2020/">
@@ -277,6 +289,9 @@ sota.sotaConfig.sections = [
         </p>
         <p class ="author">
             The Phillipian, vol. CXLIII
+        </p>
+        <p class="blurb">
+        On September 18th, 2020, Justice Ruth Bader Ginsburg, associate justice of the U.S. Supreme Court passed away. As the second woman to ever serve on the Supreme Court, Ginsburg helped rule on several landmark cases during a tenure that spanned 27 years and four presidential administrations. 
         </p>
     </a>
 
@@ -350,7 +365,7 @@ window.onload = () => {
         labelStyle: "onBar",
         groupLabelStyle: "onBar",
         showLegend: true,
-        title: "Which presdiential and vice presidential candidate do you support in the upcoming election?",
+        title: "Which presidential and vice presidential candidate do you support in the upcoming election?",
         subtitle: "",
         customColors: ["#2F609B", "#226341", "#FBB03B", "#BF3D2A"]
     })
