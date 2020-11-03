@@ -1,12 +1,9 @@
 
 sota.sotaConfig.sections = [
-    {"slug": "Intro", "name": "", "colors": sota.colorInterpolate("#336633"), "content":
-    `
-    <img src="/assets/" > 
-    `
-
-
-}
+    // {"slug": "Intro", "name": "", "colors": sota.colorInterpolate("#336633"), "content":
+    // `
+    // <img src="/assets/" > 
+    // `
     {"slug": "Election", "name": "Poll Results", "colors": sota.colorInterpolate("#663366")},
     {"slug": "articles", "name": "Articles", "colors": sota.colorInterpolate("#000000"), "content":
     `
