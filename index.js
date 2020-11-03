@@ -27,7 +27,6 @@ sota.sotaConfig.sections = [
         <p class ="author">
             Erin Kim, Ananya Madduri
         </p>
-        <img src="https://i2.wp.com/phillipian.net/wp-content/uploads/2020/10/2016-election.png?w=1024&ssl=1">
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/22/andover-community-calls-for-mutual-respect-ahead-of-presidential-election/">
         <div class="article-category">
@@ -77,7 +76,6 @@ sota.sotaConfig.sections = [
         <p class ="author">
             Charlotte Rediker
         </p>
-        <img src="https://i0.wp.com/phillipian.net/wp-content/uploads/2020/10/Image-from-iOS-2-1.jpg?w=2048&ssl=1">
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/23/battling-it-out-for-democracy/">
         <div class="article-category">
@@ -95,7 +93,6 @@ sota.sotaConfig.sections = [
         <p class ="author">
             Bianca Morales
         </p>
-        <img src="https://i2.wp.com/phillipian.net/wp-content/uploads/2020/10/IMG_3247.jpg?resize=2048%2C1312&ssl=1">
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
         <div class="article-category">
@@ -113,7 +110,7 @@ sota.sotaConfig.sections = [
         <p class ="author">
             Bianca Morales
         </p>
-        <img src="https://i1.wp.com/phillipian.net/wp-content/uploads/2020/10/Image-from-iOS-3.jpg?resize=2048%2C1508&ssl=1">
+      
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
         <div class="article-category">
@@ -148,23 +145,7 @@ sota.sotaConfig.sections = [
         </p>
     </a>
 
-    <a class="article-item" href="https://phillipian.net/2020/09/25/honoring-justice-ruth-bader-ginsburg-1933-2020/">
-    <div class="article-category">
-        <span>
-            Editorial
-        </span>
-    </div>
-    <h3>
-        Honoring Justice Ruth Bader Ginsburg (1933-2020)
-    </h3>
-    <p class="date">
-        September 25, 2020
-    </p>
-    <p class ="author">
-        The Phillipian, vol. CXLIII
-    </p>
-</a>
-<a class="article-item" href="https://www.youtube.com/embed/AvBodTW7WU8">
+    <a class="article-item" href="https://www.youtube.com/embed/AvBodTW7WU8" >
     <div class="article-category">
         <span>
             Multimedia
@@ -183,6 +164,7 @@ sota.sotaConfig.sections = [
         <iframe src="https://www.youtube.com/embed/AvBodTW7WU8" frameborder="0"></iframe>
     </div>
 </a>
+
 </div>
     `
 }
