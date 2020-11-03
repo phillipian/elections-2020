@@ -8,7 +8,7 @@ sota.sotaConfig.sections = [
     // </div>
     // `
     // }
-    {"slug": "Election", "name": "Poll Results", "colors": sota.colorInterpolate("#663366")},
+    {"slug": "Election", "name": "Poll Results", "colors": sota.colorInterpolate("#434343")},
     {"slug": "articles", "name": "Articles", "colors": sota.colorInterpolate("#000000"), "content":
     `
     <div class="articles-grid">
@@ -182,7 +182,7 @@ sota.sotaConfig.sections = [
 <a class="article-item" href="https://www.youtube.com/embed/AvBodTW7WU8">
     <div class="article-category">
         <span> 
-            Editorial
+            Multimedia
         </span>
     </div>
     <h3>
@@ -226,8 +226,9 @@ window.onload = () => {
         labelStyle: "onBar",
         groupLabelStyle: "onBar",
         showLegend: true,
-        title: "hello",
-        subtitle: "hello again"
+        title: "Are you eligible to vote in the U.S.?",
+        subtitle: "",
+        customColors: ["#DEB887", "#A0522D"]
     })
 
     sota.stackedBarChart({
@@ -236,8 +237,9 @@ window.onload = () => {
         labelStyle: "onBar",
         groupLabelStyle: "onBar",
         showLegend: true,
-        title: "If you are eligible, have you registered to vote?",
-        subtitle:"test"
+        title: "If you're eligible to vote in the U.S., are you registered to vote in the November 3 election?",
+        subtitle:"",
+        customColors: ["#DEB887", "#A0522D"]
     })
 
     sota.stackedBarChart({
@@ -246,8 +248,8 @@ window.onload = () => {
         labelStyle: "onBar",
         groupLabelStyle: "onBar",
         showLegend: true,
-        title: "Who do you support in the upcoming election?",
-        subtitle: "test",
+        title: "Which presdiential and vice presidential candidate do you support in the upcoming election?",
+        subtitle: "",
         customColors: ["#2F609B", "#226341", "#FBB03B", "#BF3D2A"]
     })
 

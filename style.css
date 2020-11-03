@@ -1,8 +1,24 @@
 
+
+.intro img{
+width: 100%;
+}
+
+.intro{
+
+    padding: 30px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+}
 body{
     margin: 0;
 }
 
+
+.intro p{
+    padding-left: 10%;
+    padding-right: 10%;
+}
 .articles-grid{
     display: grid;
     column-gap: 50px;
