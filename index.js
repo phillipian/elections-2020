@@ -7,7 +7,7 @@ sota.sotaConfig.sections = [
     // </div>
     // `
     // }
-    {"slug": "Election", "name": "", "colors": sota.colorInterpolate("#663366")},
+    {"slug": "Election", "name": "", "colors": sota.colorInterpolate("#000001")},
     {"slug": "articles", "name": "", "colors": sota.colorInterpolate("#000000"), "content":
     `
     <div class="article-container">
@@ -99,6 +99,22 @@ sota.sotaConfig.sections = [
             Erin Kim, Ananya Madduri
         </p>
     </a>
+    <a class="https://phillipian.net/2020/10/30/robert-greene-ii-spotlights-impact-of-black-voters-in-american-elections/">
+    <div class="article-category">
+        <span>
+            News
+        </span>
+    </div>
+    <h3>
+    Robert Greene II Spotlights Impact of Black Voters in American Elections
+    </h3>
+    <p class="date">
+        October 30, 2020
+    </p>
+    <p class ="author">
+        Kelly Bu, Josh Lee
+    </p>
+    </a>
     <a class="article-item" href="https://phillipian.net/2020/10/01/students-react-to-first-presidential-debate/">
         <div class="article-category">
             <span>
@@ -167,6 +183,41 @@ sota.sotaConfig.sections = [
         </p>
 
     </a>
+
+    <a class="https://phillipian.net/2020/10/30/the-supreme-courts-role-in-upholding-voter-suppression/">
+        <div class="article-category">
+            <span>
+                Commentary
+            </span>
+        </div>
+        <h3>
+        The Supreme Court’s Role in Upholding Voter Suppression
+        </h3>
+        <p class="date">
+            October 30, 2020
+        </p>
+        <p class ="author">
+            Ashley Agyeman
+        </p>
+    </a>
+
+    <a class="https://phillipian.net/2020/10/30/dont-hang-up/">
+        <div class="article-category">
+            <span>
+                Commentary
+            </span>
+        </div>
+        <h3>
+        Don't Hang up
+        </h3>
+        <p class="date">
+            October 30, 2020
+        </p>
+        <p class ="author">
+            Myra Bhathena 
+        </p>
+    </a>
+
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
         <div class="article-category">
             <span>
@@ -199,6 +250,9 @@ sota.sotaConfig.sections = [
             The Phillipian, vol. CXLIII
         </p>
     </a>
+
+    
+
 
     <a class="article-item" href="https://www.youtube.com/embed/AvBodTW7WU8" >
     <div class="article-category">
@@ -247,6 +301,7 @@ window.onload = () => {
         showLegend: true,
         title: "Are you eligible to vote in the U.S.?",
         subtitle: "",
+        customColors: ["#663366", "#996699"]
     })
 
     sota.stackedBarChart({
@@ -257,6 +312,7 @@ window.onload = () => {
         showLegend: true,
         title: "If you're eligible to vote in the U.S., are you registered to vote in the November 3 election?",
         subtitle:"",
+        customColors: ["#663366", "#996699"]
     })
 
     sota.stackedBarChart({
@@ -277,7 +333,7 @@ window.onload = () => {
         groupLabelStyle: "onBar",
         showLegend: true,
         title: "Support, by year",
-        subtitle:"test",
+        subtitle:"",
         customColors: ["#2F609B", "#226341", "#FBB03B", "#BF3D2A"]
     })
 //new charts end

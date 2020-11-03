@@ -26,12 +26,17 @@ body{
 .articles-grid img{
  max-width: 100%;
 }
+
 .articles-grid a{
     color: unset;
     text-decoration: none;
     background-color:	#DCDCDC;
     border-radius: 10px, 10px, 10px, 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 10px;
 }
+
 
 @media (min-width: 600px)
 {
