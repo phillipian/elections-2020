@@ -5,8 +5,8 @@ body{
 
 .articles-grid{
     display: grid;
-    column-gap: 5%;
-    row-gap: 75px;
+    column-gap: 3%;
+    row-gap: 64px;
 }
 
 .yt-container{
@@ -30,12 +30,13 @@ body{
 .articles-grid a{
     color: unset;
     text-decoration: none;
-    background-color:	#DCDCDC;
-    border-radius: 32px;
-    padding-left: 24px;
+    background-color:	#f4f4f4;
+    /* border-radius: 32px; */
+    /* padding-left: 24px;
     padding-right: 24px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 10px; */
+    padding: 24px;
 }
 
 .article-category{
@@ -62,9 +63,9 @@ body{
 }
 
 .article-item h3{
-
     margin-top: 0.2em;
 }
+
 @media (min-width: 600px)
 {
     .articles-grid{
@@ -78,7 +79,6 @@ body{
 {
     .articles-grid{
         grid-template-columns: repeat(3, minmax(0, 1fr));
-
     }
 }
 
@@ -140,7 +140,7 @@ body{
 .article-title{
   font-size: 48px;
   font-weight: 700;
-  margin: 12px 0;
+  margin: 12px 0 0;
   line-height: 1.2;
   font-family: "Montserrat";
 }
@@ -148,7 +148,7 @@ body{
 .article-credit{
   font-size: 20px;
   font-weight: 700;
-  margin: 12px 0;
+  margin: 0 0 12px;
   line-height: 1.5;
   font-family: "Montserrat";
 }
@@ -210,17 +210,18 @@ body{
 .commentary-title{
   font-size: 25px;
   font-weight: 700;
-  margin: 12px 0;
+  margin: 12px 0 0;
   line-height: 1.2;
   font-family: "Montserrat";
 }
 
 .read{
   font-size: 20px;
+  font-weight: 700;
   margin: 12px 0;
   line-height: 1.5;
   font-family: "Montserrat";
-  color: unset;
+  color: #0082ca;
   text-decoration: none;
 }
 
