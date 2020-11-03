@@ -1,14 +1,15 @@
-
 sota.sotaConfig.sections = [
-    // {"slug": "Intro", "name": "", "colors": sota.colorInterpolate("#336633"), "content":
+    // {"slug": "Intro", "name": "intro", "colors": sota.colorInterpolate("#336633"), "content":
     // `
-    // <img src="/assets/" >
+    // <div class="intro">
+
+    // <img src="/assets/election-banner.jpg">
+    // </div>
     // `
-    {"slug": "Election", "name": "Poll Results", "colors": sota.colorInterpolate("#663366")},
+    // }
+    {"slug": "Election", "name": "Poll Results", "colors": sota.colorInterpolate("#434343")},
     {"slug": "articles", "name": "Articles", "colors": sota.colorInterpolate("#000000"), "content":
     `
-
-
     <div class="articles-grid">
     <a class="article-item" href="https://phillipian.net/2020/10/22/andover-prepares-to-support-students-during-presidential-election/">
         <div class="article-category">
@@ -20,8 +21,6 @@ sota.sotaConfig.sections = [
             Andover Prepares to Support Students During Presidential Election
         </h3>
 
-
-
         <p class="date">
             October 22, 2020
         </p>
@@ -30,9 +29,6 @@ sota.sotaConfig.sections = [
         </p>
         <img src="https://i2.wp.com/phillipian.net/wp-content/uploads/2020/10/2016-election.png?w=1024&ssl=1">
     </a>
-
-
-
     <a class="article-item" href="https://phillipian.net/2020/10/22/andover-community-calls-for-mutual-respect-ahead-of-presidential-election/">
         <div class="article-category">
             <span>
@@ -49,8 +45,6 @@ sota.sotaConfig.sections = [
             Erin Kim, Ananya Madduri
         </p>
     </a>
-
-
     <a class="article-item" href="https://phillipian.net/2020/10/01/students-react-to-first-presidential-debate/">
         <div class="article-category">
             <span>
@@ -67,7 +61,6 @@ sota.sotaConfig.sections = [
             Laura Ospina, Erin Kim, Hope Nardone
         </p>
     </a>
-
     <a class="article-item" href="https://phillipian.net/2020/10/22/qanon-conspiracies-and-my-local-pizza-shop/">
         <div class="article-category">
             <span>
@@ -86,7 +79,6 @@ sota.sotaConfig.sections = [
         </p>
         <img src="https://i0.wp.com/phillipian.net/wp-content/uploads/2020/10/Image-from-iOS-2-1.jpg?w=2048&ssl=1">
     </a>
-
     <a class="article-item" href="https://phillipian.net/2020/10/23/battling-it-out-for-democracy/">
         <div class="article-category">
             <span>
@@ -105,7 +97,6 @@ sota.sotaConfig.sections = [
         </p>
         <img src="https://i2.wp.com/phillipian.net/wp-content/uploads/2020/10/IMG_3247.jpg?resize=2048%2C1312&ssl=1">
     </a>
-
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
         <div class="article-category">
             <span>
@@ -124,7 +115,6 @@ sota.sotaConfig.sections = [
         </p>
         <img src="https://i1.wp.com/phillipian.net/wp-content/uploads/2020/10/Image-from-iOS-3.jpg?resize=2048%2C1508&ssl=1">
     </a>
-
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
         <div class="article-category">
             <span>
@@ -141,7 +131,6 @@ sota.sotaConfig.sections = [
             The Phillipian, vol. CXLIII
         </p>
     </a>
-
     <a class="article-item" href="https://phillipian.net/2020/09/25/honoring-justice-ruth-bader-ginsburg-1933-2020/">
         <div class="article-category">
             <span>
@@ -175,12 +164,10 @@ sota.sotaConfig.sections = [
         The Phillipian, vol. CXLIII
     </p>
 </a>
-
-
 <a class="article-item" href="https://www.youtube.com/embed/AvBodTW7WU8">
     <div class="article-category">
         <span>
-            Editorial
+            Multimedia
         </span>
     </div>
     <h3>
@@ -197,9 +184,6 @@ sota.sotaConfig.sections = [
     </div>
 </a>
 </div>
-
-
-
     `
 }
 ]
@@ -213,7 +197,7 @@ sota.createSections(sota.sotaConfig);
 
 // optional, render navbar based on sotaConfig.sections
 // make sure you call createSections first!
-sota.sotaNavbar(sota.sotaConfig, "sota.js Demo", "szlogo.png", false, "https://www.samsonzhang.com/");
+sota.sotaNavbar(sota.sotaConfig, "Mock Election 2020", "assets/img/p-square.png", false, "https://www.phillipian.net/");
 // GENERAL
 window.onload = () => {
 
@@ -224,8 +208,9 @@ window.onload = () => {
         labelStyle: "onBar",
         groupLabelStyle: "onBar",
         showLegend: true,
-        title: "hello",
-        subtitle: "hello again"
+        title: "Are you eligible to vote in the U.S.?",
+        subtitle: "",
+        customColors: ["#663366", "#855289"]
     })
 
     sota.stackedBarChart({
@@ -234,8 +219,9 @@ window.onload = () => {
         labelStyle: "onBar",
         groupLabelStyle: "onBar",
         showLegend: true,
-        title: "If you are eligible, have you registered to vote?",
-        subtitle:"test"
+        title: "If you're eligible to vote in the U.S., are you registered to vote in the November 3 election?",
+        subtitle:"",
+        customColors: ["#663366", "#855289"]
     })
 
     sota.stackedBarChart({
@@ -244,8 +230,8 @@ window.onload = () => {
         labelStyle: "onBar",
         groupLabelStyle: "onBar",
         showLegend: true,
-        title: "Who do you support in the upcoming election?",
-        subtitle: "test",
+        title: "Which presdiential and vice presidential candidate do you support in the upcoming election?",
+        subtitle: "",
         customColors: ["#2F609B", "#226341", "#FBB03B", "#BF3D2A"]
     })
 
