@@ -38,6 +38,24 @@ body{
     padding-bottom: 10px;
 }
 
+.article-category{
+    color: #0082ca;
+}
+
+.blurb{
+    font-family: "Mercury Text G1";
+    line-height: 1.5;
+}
+
+.author{
+    font-family: "Montserrat";
+}
+
+.date{
+    font-family: "Montserrat";
+ 
+}
+
 
 @media (min-width: 600px)
 {

@@ -75,14 +75,15 @@ sota.sotaConfig.sections = [
         <h3>
             Andover Prepares to Support Students During Presidential Election
         </h3>
-        <p class = "blurb">
-        On November 9, the day after the 2016 presidential election, Andover called an impromptu All-School Meeting (ASM) to address the results of the election, according to a Phillipian staff report from November 11, 2016. Election day returns on November 3, 2020. Find how Andover is preparing to support students in the days leading up to the presidential election. 
-        </p>
+        
         <p class="date">
             October 22, 2020
         </p>
         <p class ="author">
             Erin Kim, Ananya Madduri
+        </p>
+        <p class = "blurb">
+        On November 9, the day after the 2016 presidential election, Andover called an impromptu All-School Meeting (ASM) to address the results of the election, according to a Phillipian staff report from November 11, 2016. Election day returns on November 3, 2020. Find how Andover is preparing to support students in the days leading up to the presidential election. 
         </p>
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/22/andover-community-calls-for-mutual-respect-ahead-of-presidential-election/">
@@ -94,14 +95,15 @@ sota.sotaConfig.sections = [
         <h3>
             Andover Community Calls for Mutual Respect Ahead of Presidential Election
         </h3>
-        <p class = "blurb">
-        With less than two weeks until the 2020 presidential election, the Andover community is preparing for the November-3 contest between Republican nominee and current President Donald Trump and Democratic nominee and former Vice President Joe Biden. Community members are calling for unity and mutual respect across party lines.
-        </p>
+        
         <p class="date">
             October 22, 2020
         </p>
         <p class ="author">
             Erin Kim, Ananya Madduri
+        </p>
+        <p class = "blurb">
+        With less than two weeks until the 2020 presidential election, the Andover community is preparing for the November-3 contest between Republican nominee and current President Donald Trump and Democratic nominee and former Vice President Joe Biden. Community members are calling for unity and mutual respect across party lines.
         </p>
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/30/robert-greene-ii-spotlights-impact-of-black-voters-in-american-elections/">
@@ -113,14 +115,15 @@ sota.sotaConfig.sections = [
     <h3>
     Robert Greene II Spotlights Impact of Black Voters in American Elections
     </h3>
-    <p class="blurb">
-    Robert Greene II, an Assistant Professor of History at Claflin University, spoke to students over Zoom on Friday, October 23, in Andover’s third installment of the Presidential Election Speaker Series. Greene addressed the increasing impact of Black voters in American politics, especially for the Democratic Party, specifically pointing to several elections where Black voters were crucial in the outcome. 
-    </p>
+    
     <p class="date">
         October 30, 2020
     </p>
     <p class ="author">
         Kelly Bu, Josh Lee
+    </p>
+    <p class="blurb">
+    Robert Greene II, an Assistant Professor of History at Claflin University, spoke to students over Zoom on Friday, October 23, in Andover’s third installment of the Presidential Election Speaker Series. Greene addressed the increasing impact of Black voters in American politics, especially for the Democratic Party, specifically pointing to several elections where Black voters were crucial in the outcome. 
     </p>
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/01/students-react-to-first-presidential-debate/">
@@ -132,14 +135,15 @@ sota.sotaConfig.sections = [
         <h3>
             Students React to First Presidential Debate
         </h3>
-        <p class ="blurb">
-        The first presidential debate occurred on Tuesday between the Republican nominee and current President Donald Trump and the Democratic nominee and former Vice President Joe Biden. Click to read student reactions.
-        </p>
+        
         <p class="date">
             October 1, 2020
         </p>
         <p class ="author">
             Laura Ospina, Erin Kim, Hope Nardone
+        </p>
+        <p class ="blurb">
+        The first presidential debate occurred on Tuesday between the Republican nominee and current President Donald Trump and the Democratic nominee and former Vice President Joe Biden. Click to read student reactions.
         </p>
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/22/qanon-conspiracies-and-my-local-pizza-shop/">
@@ -151,14 +155,15 @@ sota.sotaConfig.sections = [
         <h3>
             QAnon Conspiracies and My Local Pizza Shop
         </h3>
-        <p class="blurb">
-        In a world where words carry weight and consequences, how do we address conspiracy theories and their presence in politics? Charlotte Rediker ’22 examines the QAnon conspiracies and its influence over a gunman in a pizza parlor to the president. Rediker highlights the dangers of believing and fueling conspiracy theories, especially how platforms can operate to better enforce the spread of accurate information. 
-        </p>
+        
         <p class="date">
             October 22, 2020
         </p>
         <p class ="author">
             Charlotte Rediker
+        </p>
+        <p class="blurb">
+        In a world where words carry weight and consequences, how do we address conspiracy theories and their presence in politics? Charlotte Rediker ’22 examines the QAnon conspiracies and its influence over a gunman in a pizza parlor to the president. Rediker highlights the dangers of believing and fueling conspiracy theories, especially how platforms can operate to better enforce the spread of accurate information. 
         </p>
     </a>
     <a class="article-item" href="https://phillipian.net/2020/10/23/battling-it-out-for-democracy/">
@@ -187,19 +192,20 @@ sota.sotaConfig.sections = [
         <h3>
             Donald Trump's Coronavirus Diagnosis
         </h3>
-        <p class="blurb">
-        Trump's positive COVID-19 test has dominated the news cycle since the moment he announced it. Yet despite the public frenzy around the story, the Trump Administration has released little information about the President's condition. At the end of a week of chaos and confusion, Bianca Morales '24 questions the ethical responsibilities of a President to communicate with the people he leads.
-        </p>
+        
         <p class="date">
             October 8, 2020
         </p>
         <p class ="author">
             Bianca Morales
         </p>
+        <p class="blurb">
+        Trump's positive COVID-19 test has dominated the news cycle since the moment he announced it. Yet despite the public frenzy around the story, the Trump Administration has released little information about the President's condition. At the end of a week of chaos and confusion, Bianca Morales '24 questions the ethical responsibilities of a President to communicate with the people he leads.
+        </p>
 
     </a>
 
-    <a class="https://phillipian.net/2020/10/30/the-supreme-courts-role-in-upholding-voter-suppression/">
+    <a class="article-item" href="https://phillipian.net/2020/10/30/the-supreme-courts-role-in-upholding-voter-suppression/">
         <div class="article-category">
             <span>
                 Commentary
@@ -208,18 +214,19 @@ sota.sotaConfig.sections = [
         <h3>
         The Supreme Court’s Role in Upholding Voter Suppression
         </h3>
-        <p class="blurb">
-        Ashley Ageyman ’24 highlights how it has gotten increasingly difficult for people with lower socio-economic background, elderly people, and people of color to register to vote and lists the ways in which laws are providing more and more obstacles to certain groups of people. We as people have the responsibility to ensure that accessibility to vote is equal for everyone. With the upcoming election in mind, Ageyman urges readers to understand that a complete democracy cannot coexist with voter suppression. 
-        </p>
+        
         <p class="date">
             October 30, 2020
         </p>
         <p class ="author">
             Ashley Agyeman
         </p>
+        <p class="blurb">
+        Ashley Ageyman ’24 highlights how it has gotten increasingly difficult for people with lower socio-economic background, elderly people, and people of color to register to vote and lists the ways in which laws are providing more and more obstacles to certain groups of people. We as people have the responsibility to ensure that accessibility to vote is equal for everyone. With the upcoming election in mind, Ageyman urges readers to understand that a complete democracy cannot coexist with voter suppression. 
+        </p>
     </a>
 
-    <a class="https://phillipian.net/2020/10/30/dont-hang-up/">
+    <a class= "article-item" href ="https://phillipian.net/2020/10/30/dont-hang-up/">
         <div class="article-category">
             <span>
                 Commentary
@@ -228,14 +235,15 @@ sota.sotaConfig.sections = [
         <h3>
         Don't Hang up
         </h3>
-        <p class="blurb">
-        Myra Bhathena ’22 reflects on her experience of phone-banking a Trump supporter and discusses the importance of having empathy during political discussions especially in today’s political climate. Connecting the broader issue of polarity to conversations held in Andover, Bhathena also elaborates the tools and resources Andover students can better take advantage of to help interrogate the ideologies of others and also their own. The only way to bridge the gap between “The Left” and “The Right,” we must disregard our preconceived notions about certain parties and address one another with humanity and respect.
-        </p>
+        
         <p class="date">
             October 30, 2020
         </p>
         <p class ="author">
             Myra Bhathena 
+        </p>
+        <p class="blurb">
+        Myra Bhathena ’22 reflects on her experience of phone-banking a Trump supporter and discusses the importance of having empathy during political discussions especially in today’s political climate. Connecting the broader issue of polarity to conversations held in Andover, Bhathena also elaborates the tools and resources Andover students can better take advantage of to help interrogate the ideologies of others and also their own. The only way to bridge the gap between “The Left” and “The Right,” we must disregard our preconceived notions about certain parties and address one another with humanity and respect.
         </p>
     </a>
 
@@ -278,7 +286,7 @@ sota.sotaConfig.sections = [
     <a class="article-item" href="https://www.youtube.com/embed/AvBodTW7WU8" >
     <div class="article-category">
         <span>
-            Multimedia
+            Live
         </span>
     </div>
     <h3>
