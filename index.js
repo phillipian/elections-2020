@@ -223,7 +223,6 @@ sota.sotaConfig.sections = [
         In a world where words carry weight and consequences, how do we address conspiracy theories and their presence in politics? Charlotte Rediker ’22 examines the QAnon conspiracies and its influence over a gunman in a pizza parlor to the president. Rediker highlights the dangers of believing and fueling conspiracy theories, especially how platforms can operate to better enforce the spread of accurate information.
         </p>
     </a>
-
     <a class="article-item" href="https://phillipian.net/2020/10/23/battling-it-out-for-democracy/">
         <div class="article-category">
             <span>
@@ -243,7 +242,7 @@ sota.sotaConfig.sections = [
         On October 15, former Vice President Joe Biden and President Donald Trump battled it out in town halls on different television networks. These dueling events and what they represent call into question whether our democracy will stay intact for the next four years and beyond, regardless of the election results.
         </p>
     </a>
-
+    
     <a class="article-item" href="https://phillipian.net/2020/10/08/donald-trumps-coronavirus-diagnosis/">
         <div class="article-category">
             <span>
